@@ -15,7 +15,7 @@ monthly_challenges = {
     "september": "Drink no juice for the entire month",
     "october": "Drink no alcohol for the entire month",
     "november": "Drink no energy drinks for the entire month",
-    "december": "No sleep for the entire month ;)"
+    "december": None
 }
 
 # Create your views here.
